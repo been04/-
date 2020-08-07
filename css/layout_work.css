@@ -1,9 +1,5 @@
 @media all and (min-width:970px) and (max-width:1280px){
 
-    body{
-        background-color: rosybrown;
-    }
-
     .inner{
         width: 100%;
     }
@@ -145,9 +141,6 @@
 
 @media all and (min-width:740px) and (max-width:969px) { 
 
-    body{
-        background-color: cornflowerblue;
-    }
 
     .inner{
         width: 100%;
@@ -293,10 +286,6 @@
 
 
 @media all and (max-width:739px) { 
-
-    body{
-        background-color: burlywood;
-    }
 
     .inner{
         width: 100%;
